@@ -39,17 +39,3 @@ curl -XPUT 'localhost:9200/dict' -d '
         }
     }'
 
-
-
-
-curl -XPOST 'localhost:9200/popularity/word/_search' -d '
-{   
-    "word":{
-        "properties":{
-        "word":{
-            "type": "string",
-            "index_analyzer" : "autocomplete"
-        }
-    }
-    }
-}'
