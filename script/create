@@ -1,0 +1,55 @@
+curl -XPUT 'localhost:9200/dict' -d '
+    {
+        "settings" : {
+            "analysis" : {
+                "analyzer" : {
+                    "my_ngram" : {
+                        "tokenizer" : "my_tokenizer"
+                    }
+                },
+                "tokenizer" : {
+                    "my_tokenizer" : {
+                        "type" : "edgeNGram",
+                        "min_gram" : "1",
+                        "max_gram" : "10",
+                        "token_chars": [ "letter", "digit" ]
+                    }
+                }
+            }
+        },
+        "mappings" : {
+            "word" : {
+                "_source" : { "enabled" : true },
+                "properties" : {
+                    "word" : {
+                        "type" : "string"
+                    },
+                    "auto" : {
+                        "type" : "string",
+                        "analyzer" : "my_ngram"
+                    },
+                    "rank" : {
+                        "type" : "double"
+                    },
+                    "override" : {
+                        "type" : "string"
+                    }
+                }
+            }
+        }
+    }'
+
+
+
+
+curl -XPOST 'localhost:9200/popularity/word/_search' -d '
+{   
+    "word":{
+        "properties":{
+        "word":{
+            "type": "string",
+            "index_analyzer" : "autocomplete"
+        }
+    }
+    }
+}'

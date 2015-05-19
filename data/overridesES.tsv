@@ -1,0 +1,700 @@
+id    source    dictionary_es_id    reason_code
+1    veces    63852    heuristic
+3    quejar    52306    heuristic
+4    vacaciones    64748    heuristic
+5    suenos    56472    misspelling
+6    mamasita    100820    misspelling
+7    denada    108787    misspelling
+9    "que ases"    108789    misspelling
+10    habia    35480    misspelling
+11    tengo    60364    heuristic
+12    quiero    52346    heuristic
+13    grasias    108788    misspelling
+14    vamanos    108837    misspelling
+15    dias    26191    heuristic
+16    reirse    55555    heuristic
+17    guantes    35152    heuristic
+18    muebles    45039    heuristic
+19    "feliz cumpleanos"    108849    heuristic
+20    parientes    47855    heuristic
+21    besos    10567    heuristic
+23    frijoles    32038    heuristic
+25    oraciones    46722    heuristic
+26    calcetines    20600    heuristic
+27    siguientes    57773    heuristic
+28    hace    35540    heuristic
+29    llaves    41522    heuristic
+30    saludos    58943    heuristic
+31    quieres    52346    heuristic
+32    talvez    108800    misspelling
+34    "a traves"    62068    heuristic
+35    quere    52346    misspelling
+36    dulces    21494    heuristic
+37    "buenos noches"    108806    misspelling
+38    regalos    54701    heuristic
+39    perdir    48431    misspelling
+40    paises    47204    heuristic
+41    "medio ambiente"    101203    misspelling
+42    "que lastima"    40156    misspelling
+43    "que hace"    108789    misspelling
+44    queria    52346    heuristic
+45    ninos    45637    heuristic
+46    peliculas    48509    heuristic
+47    vener    64183    misspelling
+48    domir    21643    misspelling
+49    encontar    27625    misspelling
+50    fuentes    31710    heuristic
+51    "yo no se"    108807    heuristic
+52    "las vegas"    64403    heuristic
+55    "hola como esta"    108792    heuristic
+56    liderazgo    100377    heuristic
+57    consequir    14510    misspelling
+58    habra    35480    heuristic
+59    eligir    26569    misspelling
+61    noches    45550    heuristic
+62    "no mas"    102190    misspelling
+63    apellidos    3062    heuristic
+64    cajones    20731    heuristic
+65    llavar    41543    misspelling
+66    orale    102540    heuristic
+67    está    30432    heuristic
+68    tenía    60364    misspelling
+69    avertir    3119    heuristic
+70    araña    2572    heuristic
+71    cápsula    21372    heuristic
+72    carátula    19626    heuristic
+73    atrever    794    heuristic
+74    socia    57216    heuristic
+75    "de vez en cuando"    108865    heuristic
+76    15    52439    heuristic
+77    20    64382    heuristic
+78    100    16831    heuristic
+79    50    16684    heuristic
+80    30    62121    heuristic
+81    camarones    20307    heuristic
+82    14    18692    heuristic
+83    quejarse    52306    heuristic
+84    40    12431    heuristic
+85    "con tal de que"    108925    heuristic
+87    12    21829    heuristic
+88    "acabar de"    109233    heuristic
+89    18    67214    heuristic
+90    paracer    47825    misspelling
+91    aretes    2341    heuristic
+92    guisantes    35376    heuristic
+93    sueter    106700    misspelling
+95    "que tiempo hace"    109211    heuristic
+96    canciones    20046    heuristic
+98    "por tanto"    108812    heuristic
+101    tienes    60364    heuristic
+102    juguetes    39990    heuristic
+103    "el partido"    45256    heuristic
+104    "¿qué tal"    108790    heuristic
+105    "a que hora"    109006    heuristic
+107    cojer    15959    misspelling
+108    "despues de"    23073    misspelling
+109    "tener ganas de"    108915    heuristic
+110    arrepentir    1921    heuristic
+111    "hace frio"    108957    misspelling
+112    "como se dice"    109198    heuristic
+113    pastillas    48077    heuristic
+114    desarollo    24861    misspelling
+115    "te echo de menos"    108829    heuristic
+116    cunada    12539    heuristic
+117    "que haces"    108789    heuristic
+118    "¿de dónde eres"    108795    heuristic
+119    "estoy de acuerdo"    108813    heuristic
+120    hombres    36549    heuristic
+121    felices    32934    heuristic
+122    viente    64382    misspelling
+123    pidio    48431    heuristic
+124    quiere    52346    heuristic
+125    juntos    40035    heuristic
+126    repitir    54069    misspelling
+127    desarollar    24862    misspelling
+128    querrer    52346    misspelling
+129    "tengo sed"    108996    heuristic
+130    raices    56038    heuristic
+131    viver    63388    misspelling
+132    lapices    40152    heuristic
+133    "lo mismo"    44214    heuristic
+134    "¿cuántos años tienes"    108845    heuristic
+135    "no hay de que"    108879    misspelling
+136    enserio    108876    heuristic
+137    costumbres    13035    heuristic
+138    gemelos    34114    heuristic
+139    pulmones    52059    heuristic
+140    ladrones    40329    heuristic
+141    hagar    36489    misspelling
+142    sequir    58392    misspelling
+143    "las botas"    9702    heuristic
+144    sellos    58340    heuristic
+145    var    64100    misspelling
+146    "de donde eres"    108795    misspelling
+147    tner    60364    misspelling
+148    algunos    5357    heuristic
+149    "¿cómo te llamas"    108801    heuristic
+150    "a pesar"    108985    heuristic
+151    "a traves de"    109012    misspelling
+153    occurir    46342    misspelling
+154    haver    35480    misspelling
+155    tios    59468    misspelling
+156    rodillas    52975    heuristic
+157    "hola como estas"    108792    heuristic
+158    pobres    50125    heuristic
+159    pendientes    48686    heuristic
+160    fuertes    31702    heuristic
+161    lleva    41543    heuristic
+162    personajes    49152    heuristic
+163    lugares    41814    heuristic
+164    "¿qué haces"    108789    heuristic
+165    habitaciones    35494    heuristic
+166    pueblos    51978    heuristic
+167    siglos    57791    heuristic
+168    "¿cómo eres"    108859    heuristic
+169    "aire libre"    109223    heuristic
+170    aprendar    2738    misspelling
+171    almozar    4967    misspelling
+172    "¿cómo está usted"    108850    heuristic
+173    consado    19903    misspelling
+175    encontre    27625    heuristic
+176    "a partir"    109239    heuristic
+177    zapatillas    65169    heuristic
+178    verdes    64057    heuristic
+179    quienes    52379    heuristic
+180    trajes    61561    heuristic
+181    dicir    25916    misspelling
+182    quierer    52346    misspelling
+183    mejillas    43419    heuristic
+184    soprender    56816    misspelling
+185    "cual es tu nombre"    108878    heuristic
+186    cebollas    18499    heuristic
+187    saler    59065    misspelling
+188    bendiciones    10691    heuristic
+189    contrar    14276    misspelling
+190    mensajes    43612    heuristic
+191    "las papas"    47625    heuristic
+192    parilla    47919    misspelling
+193    "los muebles"    45039    heuristic
+194    concer    14557    misspelling
+196    alquien    5361    misspelling
+197    trajer    61499    misspelling
+198    sigue    58392    heuristic
+199    cuales    66861    heuristic
+200    "los calcetines"    20600    heuristic
+201    golpes    34561    heuristic
+202    "las piernas"    49484    heuristic
+203    "buenos tardes"    108828    misspelling
+204    nomas    102190    misspelling
+205    "los guantes"    35152    heuristic
+206    "¿dónde está"    108834    heuristic
+207    naipes    45987    heuristic
+208    capaces    19786    heuristic
+209    frases    31956    heuristic
+210    "las verduras"    64018    heuristic
+212    "el cafe"    20796    misspelling
+213    verduras    64018    heuristic
+214    haciendo    35540    heuristic
+215    estudiantes    30803    heuristic
+216    "los mariscos"    42984    heuristic
+217    companeros    15386    misspelling
+218    tristes    62397    heuristic
+219    "las cosas"    13146    heuristic
+220    ¿qué    104537    heuristic
+221    "la planta baja"    109318    heuristic
+222    gusta    35448    heuristic
+223    "por que"    50431    misspelling
+225    palabras    47342    heuristic
+226    "de compras"    108954    heuristic
+227    quero    108935    misspelling
+228    coches    66642    heuristic
+229    piensar    48735    misspelling
+230    tomer    61097    misspelling
+231    quando    66865    misspelling
+233    ablar    35516    misspelling
+234    segir    58392    misspelling
+235    amables    4685    heuristic
+236    entremeses    28651    heuristic
+237    "las noticias"    45420    heuristic
+238    metir    43647    misspelling
+239    "tener razon"    108987    misspelling
+240    compar    15235    misspelling
+241    algunas    5358    heuristic
+242    sirvir    57969    misspelling
+243    "los guisantes"    35376    heuristic
+244    "los padres"    108949    heuristic
+245    "el gusto es mio"    109031    misspelling
+246    pueder    50163    misspelling
+248    varones    64525    heuristic
+250    "una carta"    19079    heuristic
+251    sevir    57969    misspelling
+252    "las uvas"    63180    heuristic
+253    dolares    21771    misspelling
+254    paisajes    47295    heuristic
+256    vendir    64239    misspelling
+257    "los deportes"    25380    heuristic
+259    prefirir    50957    misspelling
+260    "tiene que"    108869    heuristic
+261    lejo    40888    misspelling
+262    encanta    27370    heuristic
+263    "ganas de"    108915    heuristic
+264    asistar    1397    misspelling
+265    habichuelas    35481    heuristic
+266    pide    48431    heuristic
+267    recojer    55184    misspelling
+268    platanos    49833    misspelling
+269    bosques    9716    heuristic
+270    "ojala que"    46437    misspelling
+271    peatones    48315    heuristic
+272    eschuchar    29651    misspelling
+273    amantes    4619    heuristic
+274    aser    35540    misspelling
+275    "el ano pasado"    109022    misspelling
+276    parace    47825    misspelling
+278    "a cabo"    108882    heuristic
+279    consiguir    14510    misspelling
+280    "un beso"    10567    heuristic
+281    demonstrar    25519    misspelling
+282    wey    109305    misspelling
+283    tacones    59589    heuristic
+285    aviones    299    heuristic
+287    estadounidenses    30361    heuristic
+288    qual    66861    misspelling
+289    semillas    58247    heuristic
+290    "las afueras"    6734    heuristic
+291    "¿por qué"    50431    heuristic
+292    "los camarones"    20307    heuristic
+294    "a donde"    65589    misspelling
+295    vovler    63274    misspelling
+296    llega    41527    heuristic
+297    sintio    58139    heuristic
+298    "el jardin"    39723    misspelling
+299    "los huevos"    36872    heuristic
+300    arrepentirse    1921    heuristic
+301    cosina    16066    misspelling
+302    subrir    56632    misspelling
+303    porque    50476    heuristic
+304    mejillones    43418    heuristic
+305    "con tal que"    108925    heuristic
+306    comunes    15563    heuristic
+307    voler    63333    misspelling
+308    sabados    59424    misspelling
+309    porfavor    108816    misspelling
+310    llovar    41558    misspelling
+311    hola    98745    heuristic
+312    "que tal"    108790    misspelling
+313    bebir    10798    misspelling
+314    "las manos"    42737    heuristic
+315    "el pais"    47204    misspelling
+316    camiones    20218    heuristic
+317    "la sala de espera"    109033    heuristic
+318    monstrar    44924    misspelling
+319    pasajes    47991    heuristic
+320    entendar    28491    misspelling
+321    "la carne de res"    109063    heuristic
+322    trear    61499    misspelling
+323    escojer    29485    misspelling
+324    "de ida y vuelta"    109375    heuristic
+325    "el medico"    41924    misspelling
+326    "las fresas"    31877    heuristic
+327    toallas    61002    heuristic
+328    encuentra    27625    heuristic
+329    econtrar    27625    misspelling
+330    "el dia"    26191    misspelling
+331    holla    46533    misspelling
+332    "¿qué tiempo hace"    109211    heuristic
+333    enojarse    28243    heuristic
+334    dad    47624    heuristic
+335    verse    64100    heuristic
+336    todos    61043    heuristic
+337    hay    35702    heuristic
+338    pizzara    49819    misspelling
+339    mitica    41950    misspelling
+340    salie    59065    misspelling
+341    peder    48852    misspelling
+342    vivr    63388    misspelling
+343    venit    64183    misspelling
+344    pider    50163    misspelling
+345    mostar    44924    misspelling
+346    morrir    44802    misspelling
+348    leventarse    41026    misspelling
+349    juegar    39978    misspelling
+350    estat    30432    misspelling
+351    empazar    27092    misspelling
+352    divirtirse    21895    misspelling
+353    apprender    2738    misspelling
+354    "las tijeras"    107322    heuristic
+355    "el otono"    47032    heuristic
+356    "la natacion"    45923    heuristic
+357    "el lapiz"    40152    heuristic
+358    gafas    33535    heuristic
+359    calacas    109482    heuristic
+360    "el boligrafo"    9967    heuristic
+361    "la hoja de papel"    109512    heuristic
+362    "de la manana"    109517    heuristic
+363    "que hay"    109522    heuristic
+365    "el traje de bano"    109186    heuristic
+366    "traje de bano"    109186    heuristic
+367    "gana un premio"    109526    heuristic
+368    "la sala de clases"    109532    heuristic
+369    "sala de clases"    109532    heuristic
+370    "sala de clase"    109532    heuristic
+371    "salón de clases"    109532    heuristic
+372    josé    99908    heuristic
+373    jose    99908    heuristic
+374    "redes sociales"    109534    heuristic
+375    "cual es la fecha"    109422    heuristic
+377    cascarones    18973    heuristic
+378    "hacerle caso"    109291    heuristic
+379    hara    35540    heuristic
+380    "los alumnos"    4735    heuristic
+381    "la estacion"    30343    heuristic
+382    "los fines"    32615    heuristic
+383    "las joyas"    39914    heuristic
+384    "los labios"    40211    heuristic
+385    lecciones    40773    heuristic
+386    llego    41527    heuristic
+387    presentaciones    51132    heuristic
+388    que?    104537    heuristic
+389    "nosotros somos"    58089    heuristic
+390    "las velas"    64322    heuristic
+391    veo    64100    heuristic
+392    zapatos    65171    heuristic
+393    malos    42440    heuristic
+394    assistir    1397    misspelling
+395    concocer    14557    misspelling
+396    constuir    14361    misspelling
+397    divirtir    21895    misspelling
+398    leventar    41026    misspelling
+399    lavantarse    41026    misspelling
+400    olividar    46555    misspelling
+401    preperar    51074    misspelling
+402    aparacer    3154    misspelling
+403    concinar    16065    misspelling
+404    descubir    24301    misspelling
+405    dormit    21643    heuristic
+406    salit    59065    misspelling
+407    siguir    58392    misspelling
+408    vistir    63874    misspelling
+409    aquilar    4871    misspelling
+410    volvar    63274    misspelling
+411    "tan como"    59803    heuristic
+412    ha    35480    heuristic
+413    covertirse    13815    misspelling
+414    covertir    13815    misspelling
+415    hacerse    35540    heuristic
+416    debo    26003    heuristic
+417    divertida    21897    heuristic
+418    suele    57090    heuristic
+419    unas    62927    heuristic
+420    sé    59326    heuristic
+421    piernas    49484    heuristic
+422    enferma    27850    heuristic
+423    aburrirse    8341    heuristic
+424    velas    64322    heuristic
+425    pone    50376    heuristic
+426    llena    41534    heuristic
+427    propia    51700    heuristic
+428    flores    32405    heuristic
+429    "darse cuenta de"    109023    heuristic
+430    segura    58373    heuristic
+431    todas    61043    heuristic
+432    fuimos    37186    heuristic
+433    traduction    61490    misspelling
+434    "le gusta"    35448    heuristic
+435    santa    58772    heuristic
+436    profesora    51523    heuristic
+437    di    26049    heuristic
+438    sandia    58872    misspelling
+439    enseña    28392    heuristic
+440    lastimarse    40616    heuristic
+441    cierra    18047    heuristic
+442    obras    46151    heuristic
+443    jovenes    39908    heuristic
+444    suelen    57090    heuristic
+445    cotidiana    13009    heuristic
+446    sencilla    58189    heuristic
+447    cortarse    13207    heuristic
+448    gustaría    35448    heuristic
+449    toda    61043    heuristic
+450    trabajadora    61450    heuristic
+451    han    35480    heuristic
+452    pequena    48797    heuristic
+453    nina    45647    heuristic
+454    debe    26003    heuristic
+455    sube    56632    heuristic
+456    aburrida    8343    heuristic
+457    tanta    59839    heuristic
+458    rica    53193    heuristic
+459    sana    58809    heuristic
+460    corta    13207    heuristic
+461    duermo    21643    heuristic
+462    oigo    46434    heuristic
+463    abierta    8676    heuristic
+464    arboles    8903    heuristic
+465    árboles    8903    heuristic
+466    vecina    64427    heuristic
+467    viva    63386    heuristic
+468    diga    25916    heuristic
+469    enojada    28241    heuristic
+470    seguida    58396    heuristic
+471    preciosa    50856    heuristic
+472    mija    43989    heuristic
+473    misma    44214    heuristic
+474    casada    19014    heuristic
+475    ve    64100    heuristic
+476    doy    26049    heuristic
+477    será    58089    heuristic
+478    yendo    37186    heuristic
+479    sepa    59326    heuristic
+480    ambas    4479    heuristic
+481    vende    64239    heuristic
+482    nueces    45315    heuristic
+483    nosotras    45438    heuristic
+484    fisica    33420    misspelling
+485    suiguientes    57773    misspelling
+486    sigo    58392    heuristic
+487    ningún    45591    heuristic
+488    puse    50376    heuristic
+489    estuve    30432    heuristic
+490    nieva    45660    heuristic
+491    suena    56944    heuristic
+492    mis    41937    heuristic
+493    mis    43903    heuristic
+494    vengo    64183    heuristic
+495    hermosa    35994    heuristic
+496    vamos    37186    heuristic
+497    puedo    50376    heuristic
+498    entiendo    28491    heuristic
+499    linda    41314    heuristic
+500    fue    58089    heuristic
+501    estoy    30432    heuristic
+502    es    58089    heuristic
+503    voy    37186    heuristic
+504    bonita    9860    heuristic
+505    siento    58139    heuristic
+506    bella    10714    heuristic
+507    cansada    19903    heuristic
+508    guapa    35164    heuristic
+509    ducharse    21529    heuristic
+510    fui    58089    heuristic
+511    estan    30432    heuristic
+512    hizo    35540    heuristic
+513    somos    106453    heuristic
+514    somos    58089    heuristic
+515    "Estados Unidos"    96826    heuristic
+516    dura    21411    heuristic
+517    enfadarse    27825    heuristic
+518    pudo    50163    heuristic
+519    habiticion    35494    misspelling
+520    portarse    50544    heuristic
+521    simpatica    57679    misspelling
+522    pude    50163    heuristic
+523    sois    58089    heuristic
+524    provenir    51837    heuristic
+525    despierta    23185    heuristic
+526    tonta    61154    heuristic
+527    amiga    4402    heuristic
+528    conozco    14557    heuristic
+529    nubes    45350    heuristic
+530    ultima    62877    misspelling
+531    alas    6064    heuristic
+532    "yo tengo"    60364    heuristic
+533    quise    52346    heuristic
+534    perezosa    48914    heuristic
+535    prepararse    51074    heuristic
+536    tiendas    60757    heuristic
+537    cree    12852    heuristic
+538    tomas    61097    heuristic
+539    graciosa    34727    heuristic
+540    "ha sido"    58089    heuristic
+541    peces    49357    heuristic
+542    viven    63388    heuristic
+543    muchas    45018    heuristic
+544    "un rato"    55594    heuristic
+545    quito    52547    heuristic
+546    vives    63388    heuristic
+547    sería    58089    heuristic
+548    perdida    48858    heuristic
+549    cuidarse    12143    heuristic
+550    fines    32616    heuristic
+551    supo    59326    heuristic
+552    seca    58494    heuristic
+553    ruego    52948    heuristic
+554    empiezo    27092    heuristic
+555    pasó    48008    heuristic
+556    gata    34021    heuristic
+557    guera    35287    misspelling
+558    sucia    56508    heuristic
+559    cuesta    13062    heuristic
+560    vas    37186    heuristic
+561    ven    64183    heuristic
+562    gorda    34617    heuristic
+563    encantada    27366    heuristic
+564    duele    21769    heuristic
+565    otra    47042    heuristic
+566    pienso    48735    heuristic
+567    maestra    42158    heuristic
+568    pongo    50376    heuristic
+569    alguna    5357    heuristic
+570    digo    25916    heuristic
+571    digo    25916    heuristic
+572    podemos    50163    heuristic
+573    fea    32899    heuristic
+574    mariscos    101015    heuristic
+575    "yo soy"    58089    heuristic
+576    dio    26049    heuristic
+577    chula    16999    heuristic
+578    anda    3997    heuristic
+579    ama    4614    heuristic
+580    hemos    35480    heuristic
+581    siente    58139    heuristic
+582    hablado    35516    heuristic
+583    sola    57026    heuristic
+584    vive    63388    heuristic
+585    buena    9201    heuristic
+586    cuantos    66868    heuristic
+587    iba    37186    heuristic
+589    tus    62621    heuristic
+590    algunas    5357    heuristic
+591    revistas    53305    heuristic
+592    molesta    44455    heuristic
+593    luces    41897    heuristic
+594    temas    60210    heuristic
+595    tapas    59842    heuristic
+596    crees    12852    heuristic
+597    cayó    20798    heuristic
+598    calles    20442    heuristic
+599    "los fines de semana"    32615    heuristic
+600    medias    43336    heuristic
+601    siga    58392    heuristic
+602    vienes    64183    heuristic
+603    busco    8981    heuristic
+604    son    58089    heuristic
+605    deja    25703    heuristic
+606    esta    30450    heuristic
+607    estas    30450    heuristic
+608    anos    3743    heuristic
+609    botas    9702    heuristic
+610    pies    49475    heuristic
+611    enseguida    109554    heuristic
+612    quizás    52556    heuristic
+613    cerrada    18057    heuristic
+614    seca    58494    heuristic
+615    refugiarse    54752    heuristic
+616    flaca    32511    heuristic
+617    hecha    35757    heuristic
+618    maldita    42364    heuristic
+619    cuya    11853    heuristic
+620    nueva    45316    heuristic
+621    nena    45747    heuristic
+622    hijos    36243    heuristic
+623    sabia    59326    heuristic
+624    pido    48431    heuristic
+625    cuida    12143    heuristic
+626    fuiste    37186    heuristic
+627    "son las"    58089    heuristic
+628    "que pasa"    109543    misspelling
+629    cuidad    12150    misspelling
+630    "fines de semana"    32615    heuristic
+631    almuerza    4967    heuristic
+632    traduce    61491    heuristic
+633    madura    42138    heuristic
+634    roja    52934    heuristic
+635    haga    35540    heuristic
+636    contesta    14225    heuristic
+637    hice    35540    heuristic
+638    fueron    37186    heuristic
+639    tercer    60449    heuristic
+640    "creo que"    12852    heuristic
+641    afueras    6735    heuristic
+643    fresas    31877    heuristic
+644    comparte    15345    heuristic
+645    dile    25916    heuristic
+646    "voy a"    37186    heuristic
+647    pina    49369    misspelling
+648    adecuada    7400    heuristic
+649    uñas    63040    heuristic
+650    ajena    6133    heuristic
+651    hare    35540    heuristic
+652    olas    46476    heuristic
+653    "yo quiero"    52346    heuristic
+654    valores    64598    heuristic
+655    legumbres    40874    heuristic
+656    amplia    4241    heuristic
+657    medidas    43373    heuristic
+658    supe    59326    heuristic
+659    ancha    4054    heuristic
+660    mesita    43760    heuristic
+661    tenga    60364    heuristic
+662    enamorada    27242    heuristic
+663    ligera    41200    heuristic
+664    honduras    98770    heuristic
+665    paris    102971    heuristic
+666    alojarse    4931    heuristic
+667    pesas    49230    heuristic
+668    quiénes    104577    heuristic
+669    reglas    54635    heuristic
+670    alumna    4735    heuristic
+671    comica    21299    heuristic
+672    correos    13323    heuristic
+673    verdadera    64060    heuristic
+674    cuentas    12219    heuristic
+675    toco    61022    heuristic
+676    aca    8324    misspelling
+677    mucha    45018    heuristic
+678    sabrosa    59290    heuristic
+679    oyes    46434    heuristic
+680    gemela    34114    heuristic
+681    abogada    8599    heuristic
+682    "el horario"    36659    heuristic
+683    bendiga    10692    heuristic
+684    cesped    21334    misspelling
+685    "¿cuándo es tu cumpleaños?"    109452    heuristic
+686    "no hay"    35480    heuristic
+687    orgullosa    46812    heuristic
+688    dejó    25703    heuristic
+689    como?    66681    heuristic
+690    salga    59065    heuristic
+691    cansados    19903    heuristic
+692    venden    64239    heuristic
+693    vamanos    109565    misspelling
+694    quiza    52556    misspelling
+695    conviene    13847    heuristic
+696    estrecha    30698    heuristic
+697    segunda    58383    heuristic
+698    tendrá    60364    heuristic
+699    cae    20798    heuristic
+700    aguda    6338    heuristic
+701    crayon    12892    misspelling
+702    multiple    41961    misspelling
+703    combine    15514    heuristic
+704    mejores    43420    heuristic
+705    sillas    57730    heuristic
+706    conocida    14553    heuristic
+707    quiera    52346    heuristic
+708    blanca    10198    heuristic
+709    pesada    49235    heuristic
+710    leccion    40773    misspelling
+711    mentiras    43649    heuristic
+712    impuestos    39024    heuristic
+713    estaciones    30343    heuristic
+714    partidos    109566    heuristic
+715    que?    104537    heuristic
+716    ud    63136    heuristic
+718    cejas    66431    heuristic
+719    timida    59466    heuristic
+720    "me levanto"    41026    heuristic
+721    diciendo    25916    heuristic
+722    "me visto"    63874    heuristic
+723    unica    62976    heuristic
+724    vasos    64452    heuristic
+725    entera    28513    heuristic
+726    otras    47042    heuristic
+727    autobus    582    heuristic
+728    florida    109567    heuristic
+729    notas    45435    heuristic
+730    "tu eres"    58089    heuristic
+731    diaria    22573    heuristic
+732    comi    15464    heuristic
+733    terminado    60495    heuristic

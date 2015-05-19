@@ -1,0 +1,512 @@
+id    source    dictionary_en_id    reason_code
+1    "your welcome"    58301    misspelling
+4    "im sorry"    130303    misspelling
+5    "i am sorry"    130303    heuristic
+6    "what you doing"    58310    misspelling
+7    "hi how are you"    130295    heuristic
+8    "i am fine"    130288    heuristic
+9    "i dont know"    58350    misspelling
+10    "i love u"    58275    misspelling
+11    "i love you"    58275    misspelling
+12    "lets go"    58353    misspelling
+13    why    50020    heuristic
+14    "do you"    16047    heuristic
+15    "i went"    22713    heuristic
+16    "i had"    23944    heuristic
+19    100    58332    heuristic
+21    "i do"    16047    heuristic
+22    15    20165    heuristic
+24    "i dont understand"    130334    heuristic
+27    1    34300    heuristic
+28    50    20172    heuristic
+29    thankyou    57255    misspelling
+31    10    45907    heuristic
+32    goodmorning    58278    misspelling
+33    20    47369    heuristic
+35    alot    58285    misspelling
+36    30    46188    heuristic
+37    "i'm hungry"    130321    heuristic
+38    "me to"    58343    misspelling
+39    12    47367    heuristic
+40    nevermind    130409    misspelling
+42    "i do not understand"    130334    heuristic
+43    11    17390    heuristic
+44    18    17267    heuristic
+45    "any time"    118945    misspelling
+46    "sister in law"    42897    misspelling
+47    40    21248    heuristic
+48    "im hungry"    130321    misspelling
+49    14    21318    heuristic
+50    "which one"    49930    heuristic
+51    "how r u"    58276    misspelling
+52    "i'm tired"    130332    heuristic
+53    19    33414    heuristic
+54    9    33410    heuristic
+55    "how are u"    58276    misspelling
+57    "im good"    130341    heuristic
+58    "im tired"    130332    heuristic
+59    6    42912    heuristic
+60    "what happen"    130343    misspelling
+61    "hard working"    53126    heuristic
+62    "how you doing"    130310    heuristic
+63    "son in law"    43555    heuristic
+64    "i dont speak spanish"    130499    heuristic
+65    babysitter    4499    heuristic
+66    "air conditioner"    1359    heuristic
+67    rode    40688    heuristic
+68    "to tell"    45869    heuristic
+70    "how old are you"    130287    heuristic
+71    "where are you from"    130291    heuristic
+72    "hello how are you"    130295    heuristic
+73    "have a good day"    130294    heuristic
+74    "nice to meet you"    130301    heuristic
+75    "thank you very much"    130297    heuristic
+76    "where do you live"    130300    heuristic
+77    "how was your day"    130299    heuristic
+78    "how are you doing"    130310    heuristic
+79    "what time is it"    130312    heuristic
+80    "i love you so much"    130320    heuristic
+81    "how are you today"    130307    heuristic
+82    "on the other hand"    130457    heuristic
+83    "where are you going"    130317    heuristic
+84    "do you speak english"    130309    heuristic
+85    "i love you too"    130311    heuristic
+86    "have a nice day"    130315    heuristic
+87    what    49885    heuristic
+88    16    42916    heuristic
+89    "i miss you so much"    130396    heuristic
+90    500    58366    heuristic
+91    "what do you do"    130359    heuristic
+92    13    46185    heuristic
+93    17    42303    heuristic
+94    "have a great day"    130333    heuristic
+95    hardworking    53126    heuristic
+97    "how do you say"    130346    heuristic
+99    "i want to see you"    130407    heuristic
+100    "how can i help you"    130411    heuristic
+101    "when is your birthday"    130436    heuristic
+102    "what do you mean"    130336    heuristic
+103    recieve    39514    misspelling
+104    "what do you think"    130410    heuristic
+105    "what do you want"    130348    heuristic
+106    "i love you very much"    130406    heuristic
+107    "do you speak spanish"    130340    heuristic
+108    "grocery store"    23238    heuristic
+109    "i have to go"    130433    heuristic
+110    "where is the bathroom"    130404    heuristic
+111    eachother    58294    heuristic
+112    "to be able"    130539    heuristic
+114    really    39434    heuristic
+115    "brother in law"    7196    heuristic
+116    "what do you like to do"    130476    heuristic
+117    "i love you more"    130442    heuristic
+118    "parking lot"    35600    heuristic
+119    "can i help you"    130456    heuristic
+120    "get dressed"    130576    heuristic
+121    "the weather"    49781    heuristic
+122    "the people"    36155    heuristic
+123    "united states of america"    48212    heuristic
+124    "how have you been"    130355    heuristic
+125    hello    24236    heuristic
+126    "you are so beautiful"    130425    heuristic
+127    "far away"    19634    heuristic
+128    "talk to you later"    130412    heuristic
+129    "as soon as possible"    130462    heuristic
+130    "what did you do"    130485    heuristic
+131    "twenty two"    130511    heuristic
+132    "what are you doing today"    130392    heuristic
+133    "alarm clock"    1430    heuristic
+134    "was born"    130602    heuristic
+135    "to recieve"    39514    misspelling
+136    "what are you doing now"    130434    heuristic
+137    "you are very beautiful"    130416    heuristic
+138    "after school"    50713    heuristic
+139    "thank you for your help"    130490    heuristic
+140    "have a good weekend"    130423    heuristic
+141    "how is your day"    130390    heuristic
+142    "t shirt"    47224    heuristic
+143    "i speak a little spanish"    130454    heuristic
+144    "i will miss you"    130382    heuristic
+145    "mother in law"    54431    heuristic
+146    "and you"    130306    heuristic
+147    "have a good night"    130441    heuristic
+148    "teddy bear"    57200    heuristic
+149    "so so"    43620    heuristic
+150    "where did you go"    130486    heuristic
+151    "scuba diving"    41805    heuristic
+152    "good looking"    22855    heuristic
+153    "what did you say"    130453    heuristic
+154    "i miss you too"    130363    heuristic
+155    "i love you with all my heart"    130399    heuristic
+156    "i have to"    130575    heuristic
+157    "good morning my love"    130521    heuristic
+158    "i don't speak spanish"    130499    heuristic
+159    "one thousand"    46224    heuristic
+160    choices    9494    heuristic
+161    "how are you"    58276    heuristic
+162    "happy birthday"    58280    heuristic
+163    "the world"    50292    heuristic
+164    "thank you"    57255    heuristic
+165    gallbladder    21952    misspelling
+166    milkshake    31674    misspelling
+167    "the truth"    47213    heuristic
+168    "as much"    130678    heuristic
+169    "how may i help you"    130411    heuristic
+170    "a lot of"    58285    heuristic
+171    "the beach"    5098    heuristic
+172    healthcare    130496    heuristic
+173    fourty    21248    misspelling
+174    "where have you been"    130391    heuristic
+175    "to whom it may concern"    130487    heuristic
+176    "ice skating"    53474    heuristic
+177    "you are the best"    130500    heuristic
+178    "woke up"    57881    heuristic
+179    when    49903    heuristic
+180    excercise    18927    misspelling
+181    "the mall"    30585    heuristic
+182    "dont worry"    130357    misspelling
+183    "how much"    58300    heuristic
+184    "to spend time"    130683    heuristic
+185    "to fall in love"    130720    heuristic
+186    "the beginning"    5340    heuristic
+187    "the game"    22008    heuristic
+188    "to have to"    130575    heuristic
+189    "twenty four"    129108    heuristic
+191    "the day"    13592    heuristic
+192    "watch television"    130586    heuristic
+193    icecream    25444    misspelling
+194    "hard worker"    130815    heuristic
+195    "in between"    5660    heuristic
+196    "in addition to"    130405    heuristic
+197    "the city"    9829    heuristic
+198    ladybug    28830    heuristic
+199    "the story"    44629    heuristic
+200    "the park"    35598    heuristic
+201    "go to school"    130856    heuristic
+202    highschool    24540    misspelling
+203    "the country"    12441    heuristic
+204    "i do not know"    58350    heuristic
+205    "do you miss me"    130493    heuristic
+206    hotdog    25033    misspelling
+207    "daughter in law"    51780    heuristic
+208    "the door"    16243    misspelling
+209    "the bill"    5795    heuristic
+210    adress    660    misspelling
+211    "to ride a bike"    130749    heuristic
+212    "a job"    28197    heuristic
+213    "when i was a child"    130781    heuristic
+214    "how is it going"    130494    heuristic
+215    "what did you do today"    130495    heuristic
+216    "thirty one"    57284    heuristic
+217    "the news"    33313    heuristic
+218    "it's raining"    130588    heuristic
+219    sandwhich    41382    misspelling
+220    "i miss you"    58283    heuristic
+221    where    49906    heuristic
+222    "flip flops"    52422    heuristic
+223    who    49997    heuristic
+224    "thats good"    130837    misspelling
+225    "sun glasses"    45119    misspelling
+226    "what do you want to do"    130514    heuristic
+227    "happy birthday to you"    58280    heuristic
+228    "good morning"    58278    heuristic
+229    "book store"    6531    misspelling
+230    "board games"    6336    heuristic
+231    "father in law"    19737    heuristic
+232    "television show"    130744    heuristic
+233    "the class"    9918    heuristic
+234    "african american"    118706    heuristic
+235    how    25094    heuristic
+236    "to take a shower"    130651    heuristic
+237    "who are you"    130367    heuristic
+238    "the problem"    38078    heuristic
+239    "the food"    20907    heuristic
+240    resturant    40413    misspelling
+241    "a place"    36938    heuristic
+242    vegtables    49052    misspelling
+243    "happy mother's day"    130903    heuristic
+244    "where you from"    130291    heuristic
+245    "what's wrong"    130508    heuristic
+246    coffe    10408    misspelling
+247    "you welcome"    58301    heuristic
+248    "the store"    44615    heuristic
+249    videogames    130538    heuristic
+250    refridgerator    39856    misspelling
+251    "what happened"    130343    heuristic
+252    seperate    42149    misspelling
+253    "shopping mall"    30585    heuristic
+254    "the ocean"    34051    heuristic
+255    "happy father's day"    131073    heuristic
+256    recieved    39514    misspelling
+257    "vice president"    57837    heuristic
+258    "the trip"    47069    heuristic
+259    febuary    19840    misspelling
+260    "listening to music"    130680    heuristic
+261    "the car"    8213    heuristic
+262    "the man"    30629    heuristic
+263    "the movie"    32569    heuristic
+264    hi    53237    heuristic
+265    "air conditioning"    1360    heuristic
+266    celebrities    8792    heuristic
+267    "i miss u"    58283    misspelling
+268    beatiful    5187    misspelling
+269    "the worst"    50312    heuristic
+270    you    50514    heuristic
+271    wich    49930    misspelling
+272    embarassed    17478    misspelling
+273    "suck my dick"    45002    heuristic
+274    "male teacher"    45789    heuristic
+275    "female teacher"    45789    heuristic
+276    "suck my ass"    45002    heuristic
+277    "i would"    50323    heuristic
+278    "we will"    50063    heuristic
+279    "i got"    22364    heuristic
+280    "i feel"    19877    heuristic
+281    "did not"    16047    heuristic
+282    "the date"    13562    heuristic
+283    nigga    33370    heuristic
+284    "went to"    22713    heuristic
+285    "sugar skulls"    131170    heuristic
+286    "found out"    131171    heuristic
+287    "school supplies"    131175    heuristic
+288    "watch movies"    131176    heuristic
+289    "fuck me"    52588    heuristic
+290    "to watch tv"    130586    heuristic
+291    "to do homework"    131161    heuristic
+292    "to go fishing"    131177    heuristic
+293    really?    39434    heuristic
+294    "student desk"    14622    heuristic
+295    "had to"    130575    heuristic
+296    "would have"    50323    heuristic
+297    "i know"    28697    heuristic
+298    "the book"    6503    heuristic
+299    "i get"    22364    heuristic
+300    "will have"    23944    heuristic
+301    "i say"    41531    heuristic
+302    "the teacher"    45789    heuristic
+303    "you will"    50063    heuristic
+304    goodnight    58295    heuristic
+305    "fuck you"    52588    heuristic
+306    i'm    5097    heuristic
+307    "i am"    5097    heuristic
+308    "i hope"    24886    heuristic
+309    "i agree"    1261    heuristic
+310    "video games"    130538    heuristic
+311    goes    22713    heuristic
+312    "i go"    22713    heuristic
+313    "i see"    41966    heuristic
+314    having    23944    heuristic
+315    "i wish"    50144    heuristic
+316    "i can"    7992    heuristic
+317    "she is"    5097    heuristic
+318    tried    47217    heuristic
+319    "i eat"    17024    heuristic
+320    caught    8598    heuristic
+321    "would be"    5097    heuristic
+322    "i need"    33150    heuristic
+323    "we have"    23944    heuristic
+324    ran    41095    heuristic
+325    lives    29819    heuristic
+326    "we went"    22713    heuristic
+327    taught    45786    heuristic
+328    im    5097    heuristic
+329    "you are welcome"    58301    heuristic
+330    "they were"    5097    heuristic
+331    "i read"    39402    heuristic
+332    "i wake up"    57881    heuristic
+333    "you can"    7992    heuristic
+334    seen    41966    heuristic
+335    sent    42087    heuristic
+336    sold    42046    heuristic
+337    "he was"    5097    heuristic
+338    ar    5097    misspelling
+339    leaving    29255    heuristic
+340    "you have"    23944    heuristic
+341    won    50075    heuristic
+342    gone    22713    heuristic
+343    became    5209    heuristic
+344    leyendo    29290    heuristic
+345    "are you"    5097    heuristic
+346    looking    29990    heuristic
+347    "i have"    23944    heuristic
+348    "miss you"    58283    heuristic
+349    ate    17024    heuristic
+350    men    30629    heuristic
+351    teen-ager    57205    heuristic
+352    "i did"    16047    heuristic
+353    "United States"    48212    heuristic
+354    "i love"    30096    heuristic
+355    told    45869    heuristic
+356    "i would like"    29624    heuristic
+357    is    5097    heuristic
+358    are    5097    heuristic
+359    was    5097    heuristic
+360    were    5097    heuristic
+361    "to be"    5097    heuristic
+362    does    16047    heuristic
+363    forgot    21144    heuristic
+364    needs    33150    heuristic
+365    "I thought"    46172    heuristic
+366    loved    30096    heuristic
+367    "i get dressed"    16548    heuristic
+368    sat    42899    heuristic
+369    knew    28697    heuristic
+370    got    22364    heuristic
+371    "you are"    5097    heuristic
+372    "it has"    23944    heuristic
+373    "has been"    5097    heuristic
+374    "you should"    42615    heuristic
+375    "they have"    23944    heuristic
+376    chose    9514    heuristic
+377    works    50275    heuristic
+378    drove    16583    heuristic
+379    "to the"    46499    heuristic
+380    "i went to"    22713    heuristic
+381    cards    8264    heuristic
+382    didn't    16047    heuristic
+383    provided    38426    heuristic
+384    "have been"    5097    heuristic
+385    lying    29537    heuristic
+386    bananas    4728    heuristic
+387    "it is"    5097    heuristic
+388    "there are"    58323    heuristic
+389    it's    5097    heuristic
+390    "love you"    58275    heuristic
+391    doing    16047    heuristic
+392    "i will"    50063    heuristic
+393    took    45598    heuristic
+394    you're    5097    heuristic
+395    had    23944    heuristic
+396    did    16047    heuristic
+397    getting    22364    heuristic
+398    walking    49587    heuristic
+399    "we are"    5097    heuristic
+400    held    24713    heuristic
+401    "i want"    49626    heuristic
+402    dancing    13477    heuristic
+403    "i understand"    47849    heuristic
+404    playing    37032    heuristic
+405    wearing    49772    heuristic
+406    thinking    46172    heuristic
+407    been    5097    heuristic
+408    came    10703    heuristic
+409    an    3    heuristic
+410    "i like"    29624    heuristic
+411    "i think"    46172    heuristic
+412    teeth    46595    heuristic
+413    movies    32569    heuristic
+414    "he is"    5097    heuristic
+415    began    5338    heuristic
+417    "i saw"    41966    heuristic
+418    "i prefer"    37760    heuristic
+419    "i ate"    17024    heuristic
+420    "he said"    41531    heuristic
+421    "he has"    23944    heuristic
+422    blonde    6197    heuristic
+423    afterwards    1149    heuristic
+424    "french fry"    58364    heuristic
+425    dont    58303    heuristic
+427    "green bean"    130470    heuristic
+428    arr    5097    heuristic
+429    "the end"    17743    heuristic
+430    crying    13016    heuristic
+431    leaves    29255    heuristic
+432    company/privacy    38043    heuristic
+433    "it was"    5097    heuristic
+435    "twenty one"    57505    heuristic
+436    "gall bladder"    21952    heuristic
+437    "going to"    122562    heuristic
+438    faster    19706    heuristic
+439    "I was born"    130602    heuristic
+440    according    50649    heuristic
+441    wore    49772    heuristic
+442    "I forgot"    21144    heuristic
+443    "I said"    41531    heuristic
+444    boots    6548    heuristic
+445    brought    7052    heuristic
+446    gave    22485    heuristic
+447    bought    7633    heuristic
+448    er    131147    heuristic
+449    \    50947    heuristic
+450    "i like to"    29624    heuristic
+451    "on Saturday"    41471    heuristic
+452    "to turn on"    57488    heuristic
+453    visited    49388    heuristic
+454    roots    40925    heuristic
+455    "to eat lunch"    131214    heuristic
+456    "the best"    5609    heuristic
+457    "good bye"    52844    heuristic
+458    "I played"    37032    heuristic
+459    "I also"    1858    heuristic
+460    "he likes"    29624    heuristic
+461    "i live"    29819    heuristic
+462    "do you like"    29624    heuristic
+463    "which is"    49930    heuristic
+464    "she likes"    29624    heuristic
+465    "can be"    7992    heuristic
+466    fought    20175    heuristic
+467    "i take a shower"    130651    heuristic
+468    "give me"    22485    heuristic
+469    "i believe"    5411    heuristic
+470    "i am going to"    22713    heuristic
+471    "we go"    22713    heuristic
+472    "we saw"    41966    heuristic
+473    stood    44223    heuristic
+474    drank    16572    heuristic
+475    honduras    53345    heuristic
+476    paris    55039    heuristic
+477    "what do you mean"    130336    heuristic
+478    russia    41144    heuristic
+479    "what do you do"    130359    heuristic
+480    "i want to"    49626    heuristic
+481    "i have been"    5097    heuristic
+482    "my favorite"    19790    heuristic
+483    "we ate"    17024    heuristic
+484    "good looking"    22855    heuristic
+485    that's    130587    heuristic
+486    stole    44366    heuristic
+487    developed    14788    heuristic
+488    members    31284    heuristic
+489    "he was born"    130602    heuristic
+490    "i sleep"    43080    heuristic
+491    spoke    43767    heuristic
+492    "twenty five"    130569    heuristic
+493    "does not"    16047    heuristic
+494    brazil    6827    heuristic
+495    failed    19487    heuristic
+496    couldn't    12313    heuristic
+497    matthew    124341    heuristic
+498    "you need"    33150    heuristic
+499    symptoms    45479    heuristic
+500    apple-pie    130822    heuristic
+501    travelling    46930    heuristic
+503    "they like"    29624    heuristic
+504    "i watched"    49700    heuristic
+505    "I learned"    29232    heuristic
+506    met    31220    heuristic
+507    lice    30087    heuristic
+508    "i used to"    131208    heuristic
+509    colour    10622    heuristic
+510    "at the"    3983    heuristic
+511    "she was"    5097    heuristic
+512    "i heard"    24062    heuristic
+513    "I heard"    24062    heuristic
+514    "i will go"    22713    heuristic
+515    "I will go"    22713    heuristic
+516    "to eat breakfast"    131216    heuristic
+517    they're    58371    heuristic
+518    "i like it"    29624    heuristic
+519    "i liked"    29624    heuristic
+520    "i wanted"    49626    heuristic
+521    "i go to bed"    58368    heuristic
+522    "it would be"    5097    heuristic
+523    cesar    7761    misspelling
+524    "my friend"    21525    heuristic
+525    "i put"    38735    heuristic
+526    "we had"    23944    heuristic
+527    "i remember"    40056    heuristic
+528    expected    19041    heuristic
+529    "the rest"    40410    heuristic
+530    "can you"    130539    heuristic
+531    "in the"    26059    heuristic
+532    "should be"    5097    heuristic
